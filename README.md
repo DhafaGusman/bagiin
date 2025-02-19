@@ -1,16 +1,41 @@
-# bagiin
+<!-- @format -->
 
-A new Flutter project.
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/7d352c6c-63eb-4e73-9582-5a2981fce99d" alt="Logo bagiin" width="400">
+  </a>
+</p>
 
-## Getting Started
+<p align="center">
+  Bagikan momenmu di Bagiin
+  
+  _Share your moment in Bagiin_
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+Bagiin adalah aplikasi yang dapat membagikan momenmu berupa foto atau video pada teman maupun orang tercinta. Kamu juga dapat membagikan lokasimu berada pada temanmu dan dapat memilih siapa saja yang dapat melihat lokasimu.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bagiin merupakan sebuah proyek _open source_ yang dibuat berdasarkan referensi dari aplikasi **Locket Widget** yang diperuntukkan dalam proyek latihan semata.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📃 Daftar Isi
+
+1. [Untuk pengguna](#-untuk-pengguna)
+   - [Instalasi](#-instalasi)
+   - [Panduan penggunaan aplikasi]()
+
+- [Untuk programmer](#untuk-programmer)
+
+## 👤 Untuk Pengguna
+
+Jika anda merupakan pengguna yang ingin menggunakan Bagiin, kamu dapat melihat panduan di bawah ini:
+
+### 📃 Instalasi
+
+Untuk proses instalasi aplikasi Bagiin, kamu bisa mengikuti langkah-langkas seperti berikut.
+
+### 📖 Panduan Penggunaan Aplikasi
+
+Untuk menggunakan aplikasi Bagiin, kami telah membuat panduannya agar anda bisa menjalankan aplikasi dengan lancar. Berikut merupakan panduan penggunaannya.
+
+## 🖥️ Untuk Programmer
