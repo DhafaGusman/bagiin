@@ -7,11 +7,8 @@
 </p>
 
 <p align="center">
-  Bagikan momenmu di Bagiin
-</p>
-
-<p align="center">
-  _Share your moment in Bagiin_
+  Bagikan momenmu di Bagiin <hr>
+  <em>Share your moment in Bagiin</em>
 </p>
 
 ---
