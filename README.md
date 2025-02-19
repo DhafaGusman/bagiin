@@ -25,9 +25,9 @@ Bagiin merupakan sebuah proyek _open source_ yang dibuat berdasarkan referensi d
 - [Untuk pengguna](#-untuk-pengguna)
 
   - [Instalasi](#-instalasi)
-  - [Panduan penggunaan aplikasi]()
+  - [Panduan penggunaan aplikasi](#-panduan-penggunaan-aplikasi)
 
-- [Untuk programmer](#untuk-programmer)
+- [Untuk programmer](#️-untuk-programmer)
 
 ---
 
