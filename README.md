@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/user-attachments/assets/7d352c6c-63eb-4e73-9582-5a2981fce99d" alt="Logo bagiin" width="400">
+    <img src="https://github.com/user-attachments/assets/7d352c6c-63eb-4e73-9582-5a2981fce99d" alt="Logo bagiin" width="200">
   </a>
 </p>
 
