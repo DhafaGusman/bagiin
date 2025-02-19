@@ -18,13 +18,18 @@ Bagiin adalah aplikasi yang dapat membagikan momenmu berupa foto atau video pada
 
 Bagiin merupakan sebuah proyek _open source_ yang dibuat berdasarkan referensi dari aplikasi **Locket Widget** yang diperuntukkan dalam proyek latihan semata.
 
+---
+
 ## 📃 Daftar Isi
 
-1. [Untuk pengguna](#-untuk-pengguna)
-   - [Instalasi](#-instalasi)
-   - [Panduan penggunaan aplikasi]()
+- [Untuk pengguna](#-untuk-pengguna)
+
+  - [Instalasi](#-instalasi)
+  - [Panduan penggunaan aplikasi]()
 
 - [Untuk programmer](#untuk-programmer)
+
+---
 
 ## 👤 Untuk Pengguna
 
@@ -37,5 +42,7 @@ Untuk proses instalasi aplikasi Bagiin, kamu bisa mengikuti langkah-langkas sepe
 ### 📖 Panduan Penggunaan Aplikasi
 
 Untuk menggunakan aplikasi Bagiin, kami telah membuat panduannya agar anda bisa menjalankan aplikasi dengan lancar. Berikut merupakan panduan penggunaannya.
+
+---
 
 ## 🖥️ Untuk Programmer
