@@ -8,7 +8,9 @@
 
 <p align="center">
   Bagikan momenmu di Bagiin
-  
+</p>
+
+<p align="center">
   _Share your moment in Bagiin_
 </p>
 
